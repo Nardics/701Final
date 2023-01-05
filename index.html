@@ -1,45 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Freedom Isn't Free</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
-        crossorigin=""/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+        integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Condensed&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+
 <body>
-<div id="iiif-map"></div>
+    <div id="iiif-map"></div>
 
-<div id="narrative">
-<div id="title">
-    <h1>Views of the Land</h1>
-    <hr>
-</div>
-<div id="ui">
-  
-    <span id="pageOn">1</span><span id="pages">of 8</span><button type="button" id="next">Next &raquo;</button>
-    <div id="button-cont">
-     
+    <div id="narrative">
+        <div id="title">
+            <h1>Freedom by Force </h1>
+            <hr>
+        </div>
+        <div id="ui">
+            <button type="button" id="previous">&laquo; Previous</button>
+            <span id="pageOn">1</span><span id="pages">of 8</span><button type="button" id="next">Next &raquo;</button>
+            <div id="button-count">
+
+            </div>
+            <p id="desc"><h3>Maps have been in for multiple purposes. In many cases, maps are used to evoke reactions 
+                or responses from a target audience.</p>
+                <p>This persuasive map from the <a href="https://collections.leventhalmap.org/search/commonwealth:q524n3673">Levanthal Collection</a>, 
+                seeks to address the notion of freedom. My aim is to examine the tensions in symbology and text, which 
+                are resident in the map.</h3>
+            </p>
+        </div>
+        <div id="bottom">
+            <hr>
+
+            <a href="http://">References</a>
+
+        </div>
     </div>
-    <p id="desc">This is the start of my write-up   This map is part of a private collection and is made available
-        <a href="https://collections.leventhalmap.org/search/commonwealth:3f462s90h">in digital
-            format through the Norman B. Leventhal Map Center Collection</a>.  Continue to write some more</p>
-</div>
-<div id="bottom">
-    <hr>
-   
-    <a href="http://">References</a>
 
-</div>
-</div>
-
-<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-        crossorigin=""></script>
-<script src="https://cdn.rawgit.com/mejackreed/Leaflet-IIIF/v3.0.0/leaflet-iiif.js"></script>
-<script src="main.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+        integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    <script src="https://cdn.rawgit.com/mejackreed/Leaflet-IIIF/v3.0.0/leaflet-iiif.js"></script>
+    <script src="main.js"></script>
 </body>
