@@ -1,0 +1,74 @@
+/* custom CSS rules */
+#iiif-map {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+}
+
+h1 {
+  color:#182E59;
+  font-size: 2em;
+}
+h2{
+  color:#182E59;
+  font-style: inherit;
+}
+/* display none for layout but be careful of license restrictions */
+.mapbox-logo,
+.leaflet-control-attribution {
+  display: none;
+}
+
+
+
+hr.small,
+hr.large {
+  width: 83px;
+  position: absolute;
+  top: -8px;
+  left: 55px;
+  border: 1px dashed #ccc; /* overwrite assembly.css rule */
+  margin-top: 8px; /* overwrite assembly.css rule */
+  }
+
+ 
+
+#info {
+  z-index: 1000;
+}
+
+
+body {
+  font-family: 'Kadwa', serif;
+ 
+} /* This overrides the Assembly.css for the body font rule*/
+
+li {
+  list-style-type: disc;
+}
+
+/* #ui {
+  padding: 8px 12px;
+} */
+
+#ui {
+  position: absolute;
+  left: 0%;
+  top: 20%;
+  width: 18%;
+  height: 70%;
+  padding: 1em 1em;
+  color: rgb(202, 81, 81);
+  font-family: 'Lato', sans-serif;
+  overflow-y:auto;
+  scrollbar-color: coral;
+}
+
+button {
+  width: 20%;
+}
+
+#btn-back {
+  margin-right: 12px;
+}
