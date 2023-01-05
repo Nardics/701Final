@@ -18,14 +18,11 @@ console.log(text);
 
 
 function addInteraction(){
-    // const eventLatLng = [[-236, 279],[-411, 488], [-328, 259],[-206, 381],[-314, 320], [-298, 427],[-188, 271],
-    //     [-272, 396],[-99, 140]]
-
-
+ 
 
     const eventLatLng = [[-82,127], [-57, 327],[-263, 708], [-255, 588], [-317, 255], [-133, 641], [-310, 430], [-295, 323]]
     const eventZoom   = [2, 2, 3, 3, 3, 3, 3, 3]
-    // const eventZoom   = [0, 3, 4, 3, 3, 3, 4, 4, 2]
+    
     const desc = [`The European colonists used surveys and maps to support colonial claims to territory in what
         is now called New England.    This map is part of a private collection and is made available 
         <a href="https://collections.leventhalmap.org/search/commonwealth:3f462s90h">in digital
