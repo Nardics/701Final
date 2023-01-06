@@ -37,14 +37,24 @@ function addInteraction(){
         <p>Including the U.N. charter on this map could be viewed as the author's attempt at persuasive cartography. 
          Ideally speaking, both sides should desire peace. On paper, therefore, agreeing to the UN Charter paves the way 
          to achieve this objective.</p>`,
+
         `<h3>The Conferences</h3><p>A series of conferences set the tone in the build-up to the 
         establishment of the U.N. Hammering out the deals was multifaceted and complicated 
         though America and her allies, along with the USSR had a common enemy in Germany. Pay close attention
         to the  1943 Tehran and 1945 Yalta meetings.Here, <a href="https://history.state.gov/milestones/1937-1945/tehran-conf"> decisions were made</a> on economic strategy and geographic boundaries. </p>`,
-        `<h3>Page 4 title</h3><p>Page 4 content</p>`,
+        
+        `<h3>Stoking Fear</h3><p>The map author chooses to place emphasis on military intelligence. In highlighting
+        the element of distances, the map viewer is urged to consider emminent threats, and their proximity
+        to what/who may be perceived as the enemy to their freedom. Here, Chase quantifies freedom in terms of distance.
+        <p>Of note, is the island nation of Taiwan, which is strategically important to both the U.S and China. From the U.S perspective
+        the threat to freedom is as close as 125 miles to its back door.</p></p>`,
+        
         `<h3>Page 4 title</h3><p>Page 4 content.</p>`,
+        
         `<h3>Page 5 title</h3><p>Page 5 content.</p>`,
+        
         `<h3>Page 6 title</h3><p>Page 6 content</p>`,
+        
         `<h3>Page 7 title</h3><p>Page 7 content</p>`,
         
     ];
