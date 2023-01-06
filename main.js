@@ -28,9 +28,13 @@ function addInteraction(){
     in response to what America and her allies considered the Axis Powers. These were namely German, Italy and Japan.
     <p> Througout this period and beyond, there has been several episodes in World History which play on the played on the 
     theme of "Us vs Them", as it relates to differing political ideologies. The map author chooses to employ <a href = "https://en.wikipedia.org/wiki/Yin_and_yang"> Yin and Yang</a> to symbolise
-    these tensions that would continue to orient the rest of the world to the ideological battles that would continue to play out.`,
+    these tensions that would continue to orient the rest of the world to the ideological battles that would continue to play out in the quest to maintain freedom.`,
 
-        `<h3>Title for second page</h3><p>Text for second page</p>`,
+        `<h3>The U.N.</h3><p>The United Nations, as previously stated, was formed in response
+        to the threat from certain European and Asian countries. What is most interesting, is that the 
+        founding signatory countries, were ideologically opposed. Whilst physical conflict may have been averted,
+        the door was still open for war on the economic and political front.</p>
+        <p>Including the U.N. charter on this map could be viewed as the author's attempt at persuasive cartography. </p>`,
         `<h3>Page 3 title</h3><p>Page 3 content</p>`,
         `<h3>Page 4 title</h3><p>Page 4 content</p>`,
         `<h3>Page 4 title</h3><p>Page 4 content.</p>`,
