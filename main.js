@@ -34,8 +34,13 @@ function addInteraction(){
         to the threat from certain European and Asian countries. What is most interesting, is that the 
         founding signatory countries, were ideologically opposed. Whilst physical conflict may have been averted,
         the door was still open for war on the economic and political front.</p>
-        <p>Including the U.N. charter on this map could be viewed as the author's attempt at persuasive cartography. </p>`,
-        `<h3>Page 3 title</h3><p>Page 3 content</p>`,
+        <p>Including the U.N. charter on this map could be viewed as the author's attempt at persuasive cartography. 
+         Ideally speaking, both sides should desire peace. On paper, therefore, agreeing to the UN Charter paves the way 
+         to achieve this objective.</p>`,
+        `<h3>The Conferences</h3><p>A series of conferences set the tone in the build-up to the 
+        establishment of the U.N. Hammering out the deals was multifaceted and complicated 
+        though America and her allies, along with the USSR had a common enemy in Germany. Pay close attention
+        to the  1943 Tehran and 1945 Yalta meetings.Here, <a href="https://history.state.gov/milestones/1937-1945/tehran-conf"> decisions were made</a> on economic strategy and geographic boundaries. </p>`,
         `<h3>Page 4 title</h3><p>Page 4 content</p>`,
         `<h3>Page 4 title</h3><p>Page 4 content.</p>`,
         `<h3>Page 5 title</h3><p>Page 5 content.</p>`,
