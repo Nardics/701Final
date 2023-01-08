@@ -49,9 +49,15 @@ function addInteraction(){
         <p>Of note, is the island nation of Taiwan, which is strategically important to both the U.S and China. From the U.S perspective
         the threat to freedom is as close as 125 miles to its back door.</p></p>`,
         
-        `<h3>Page 4 title</h3><p>Page 4 content.</p>`,
+        `<h3>Provocative Tactics</h3><p>The author highlights USSR's tactics, which were designed
+        to economically sabotage the U.S, with unreasonable demands.</p>`,
         
-        `<h3>Page 5 title</h3><p>Page 5 content.</p>`,
+        `<h3>World Freedom</h3><p> The map author tactfully uses terminology that resonates with his
+        intended audience - the American public and the enshrinement of privileges under 
+        <a href= "https://constitution.congress.gov/constitution/amendment-1/"> the First Amendment</a>.
+        Comparatively, the Russian ideology ran counter to these rights. The author takes a not-so-subtle swipe
+        at the propaganda which is deployed to keep the masses behind the Iron Curtain in subjection. 
+        Note how he frames freedom as unique, and in economic terms. </p>`,
         
         `<h3>Page 6 title</h3><p>Page 6 content</p>`,
         
