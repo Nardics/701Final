@@ -94,6 +94,30 @@ function addInteraction(){
                 document.getElementById('next').innerHTML = `Next &raquo;`
             }
         });
+
+//create back button
+document
+.getElementById("previous")
+        .addEventListener("click", () => {
+            let text = document.getElementById('pageOn').textContent;
+            if(text < eventLatLng.length){n = parseInt(text) -1}
+            else{n = 1}
+            // var n = parseInt(text) + 1;
+            map.flyTo(eventLatLng[n - 1], eventZoom[n - 1]);
+            document.getElementById('pageOn').innerHTML = n;
+            document.getElementById('desc').innerHTML = desc[n - 1];
+
+            if(n == 8){
+                document.getElementById('previous').innerHTML = `&#8634;`
+            }
+            else{
+                document.getElementById('previous').innerHTML = `Previous &laquo;`
+            }
+        });
+
 }
+
+
+
 
 addInteraction();
