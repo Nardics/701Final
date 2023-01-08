@@ -66,7 +66,13 @@ function addInteraction(){
         </p><p> Again note the attempt to elict a response through the label "Iron Curtain" - designed to promote the 
         idea of secrecy, restrictive practices and mistrust.</p>`,
         
-        `<h3>Resources</h3><p>Page 7 content</p>`,
+        `<h3>Resources</h3><p>Consistent with the theme, freedom is closely tied to economic well-being.
+        In the newly-emerging post-WWII world, industry was crucial. American prosperity was dependent on access to resources.
+        Note that the Middle Eastern region is the only area on the map, where a natural resource (oil, in this case)
+        is highlighted.</p>
+        <p>Consistent with the focus on eliciting a response, the map author Chase, magnifies the proximity 
+        of these resources to the USSR's borders. By implication, a loss of these resources, equals a loss of freedom.
+        </p>`,
         
     ];
 
