@@ -1,7 +1,7 @@
 const map = L.map("iiif-map", {
     center: [0,0],
     crs: L.CRS.Simple,
-    zoom:3,
+    zoom:4,
 });
 const mappLayer = new L.tileLayer.iiif(
     "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:q524n368c/info.json"
@@ -17,11 +17,11 @@ let text = document.getElementById('pageOn').textContent;
 console.log(text);
 
 
-function addInteraction(){
+function addNavigation(){
  
 
     const eventLatLng = [[-82,127], [-57, 327],[-263, 708], [-255, 588], [-317, 255], [-133, 641], [-310, 430], [-295, 323]]
-    const eventZoom   = [2, 2, 3, 3, 3, 3, 3, 3]
+    const eventZoom   = [3, 3, 3, 3, 3, 3, 3, 3]
     
     const desc = [`The cartographer Chase constructed his map some five years after the conclusion of WWII in 1945, and the formation
     of the United Nations. <a href="https://www.archives.gov/milestone-documents/united-nations-charter">The United Nations </a>itself was formed
@@ -120,4 +120,4 @@ document
 
 
 
-addInteraction();
+addNavigation();
