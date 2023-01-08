@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #044f54;
+    background: #142B40;
 }
 
 #iiif-map {
@@ -10,7 +10,7 @@ body {
     left: 20%;
     top: 0;
     bottom: 0;
-    background: #e6ddcc;
+    background: #5c7084;
 }
 
 
@@ -20,11 +20,11 @@ body {
     top: 20%;
     width: 18%;
     height: 70%;
-    padding: 1em 1em;
+    padding: 2em 2em;
     color: whitesmoke;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Kadwa', serif;
     overflow-y:auto;
-    scrollbar-color: coral;
+    scrollbar-color: #F2F2F2;
 }
 
 #title{
@@ -33,9 +33,9 @@ body {
     width: 15%;
     z-index: 1000;
     padding: 0em 1em;
-    color: #e6ddcc;
-    font-family: 'Roboto Condensed', sans-serif;
-    background: #044f54;
+    color: #F2F2F2;
+    font-family: 'Kadwa', serif;
+    background: #142B40;
 }
 
 #bottom {
@@ -46,15 +46,15 @@ body {
     z-index: 1000;
     padding: 0em 1em;
     color: #e6ddcc;
-    font-family: 'Lato', sans-serif;
-    background: #044f54;
+    font-family: 'Kadwa', serif;
+    background: #142B40;
 }
 
 
 #previous {
     background-color: #e6ddcc;
     color: black;
-    width: 50%;
+    width: 40%;
 }
 
 #next {
@@ -109,5 +109,4 @@ a:hover {
     #bottom{
         font-size: 80%;
     }
->>>>>>> 22e8955c2c28bf36251ea6a5886b7b8d1f59c953
 }
