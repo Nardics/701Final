@@ -55,13 +55,18 @@ function addInteraction(){
         `<h3>World Freedom</h3><p> The map author tactfully uses terminology that resonates with his
         intended audience - the American public and the enshrinement of privileges under 
         <a href= "https://constitution.congress.gov/constitution/amendment-1/"> the First Amendment</a>.
-        Comparatively, the Russian ideology ran counter to these rights. The author takes a not-so-subtle swipe
+        Comparatively, the Russian ideology ran counter to these rights.</p><p>The author takes a not-so-subtle swipe
         at the propaganda which is deployed to keep the masses behind the Iron Curtain in subjection. 
-        Note how he frames freedom as unique, and in economic terms. </p>`,
+        Note how he frames freedom as unique, and also in capitalistic terms. </p>`,
         
-        `<h3>Page 6 title</h3><p>Page 6 content</p>`,
+        `<h3>Drawing the Line</h3><p>America was always concerned with protecting the homefront. This essentially 
+        gave rise to the idea of "containment" - preventing the spread
+        of communism.</p><p> The legend used is rather simple. It focuses on boundaries, and the primary methods
+        of maintaining security. The presence of strategic naval bases and railroads, create a sense of security and readiness.
+        </p><p> Again note the attempt to elict a response through the label "Iron Curtain" - designed to promote the 
+        idea of secrecy, restrictive practices and mistrust.</p>`,
         
-        `<h3>Page 7 title</h3><p>Page 7 content</p>`,
+        `<h3>Resources</h3><p>Page 7 content</p>`,
         
     ];
 
