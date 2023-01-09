@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;   
     background: #142B40;
-    /* font-size: 1.5em; */
+    
 }
 
 #iiif-map {
@@ -16,7 +16,7 @@ body {
 
 
 #ui {
-    position: absolute;
+    position:fixed;
     left: 0%;
     top: 20%;
     width: 15%;
