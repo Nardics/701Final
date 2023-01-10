@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;   
     background: #142B40;
-    
+    /* font-size: 1.5em; */
 }
 
 #iiif-map {
@@ -68,7 +68,7 @@ body {
 }
 
 #pages{
-    padding: 2em;
+    padding: 1em;
 }
 
 a {
