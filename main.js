@@ -40,8 +40,8 @@ function addInteraction() {
     `The cartographer Chase constructed his map some five years after the conclusion of WWII in 1945, and the formation
   of the United Nations. <a href="https://www.archives.gov/milestone-documents/united-nations-charter">The United Nations </a>itself was formed
   in response to what America and her allies considered the Axis Powers. These were namely German, Italy and Japan.
-  <p> Througout this period and beyond, there has been several episodes in World History which play on the played on the 
-  theme of "Us vs Them", as it relates to differing political ideologies. The map author chooses to employ <a href = "https://en.wikipedia.org/wiki/Yin_and_yang"> Yin and Yang</a> to symbolise
+  <p> Througout this period and beyond, there were several episodes in World History which played on the 
+  theme of "Us vs Them", as it related to differing political ideologies. The map author chooses to employ <a href = "https://en.wikipedia.org/wiki/Yin_and_yang"> Yin and Yang</a> to symbolise
   these tensions that would continue to orient the rest of the world to the ideological battles that would continue to play out in the quest to maintain freedom.`,
 
     `<h3>The U.N.</h3><p>The United Nations, as previously stated, was formed in response
